@@ -1,2 +1,2 @@
 # Learning-Web-development-
-author::-YousubAli
+author:-YousubAli
